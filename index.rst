@@ -2,6 +2,7 @@
    sphinx-quickstart on Sun May  6 15:14:02 2018.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
+.. include:: globals.rst
 
 Welcome to Nurtch documentation!
 ======================================
@@ -26,17 +27,7 @@ The documentation is split into two sections:
 
 
 
-.. |Nurtch| raw:: html
 
-   <a href="http://nurtch.com" target="_blank">Nurtch</a>
-
-.. |Sign up| raw:: html
-
-   <a href="http://nurtch.com" target="_blank">Sign up</a>
-
-.. |Jupyter Notebooks| raw:: html
-
-   <a href="http://jupyter.org/" target="_blank">Jupyter Notebooks</a>
 
 
 
