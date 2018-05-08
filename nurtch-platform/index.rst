@@ -33,3 +33,22 @@ Once editing is enabled you can change the content as you desire. Once editing i
 .. image:: ../images/ppd_buttons.png
    :scale: 50 %
    :align: center
+
+
+Run SQL queries in Notebook
+------------------------------------
+It's super easy to connect to any sql database and run queries against it from the Notebook. There's a |SQL magic| that helps you do it. See the example below.
+
+.. image:: ../images/run_sql_query.png
+   :scale: 35 %
+   :align: center
+
+
+Run shell commands in Notebook
+------------------------------------
+You can run shell commands in the Notebook with the help of ``!`` operator. You can also use ``%%bash`` magic to run multi-line bash script.
+Commands are run on the server where Nurtch is hosted. You can also SSH onto a different machine and run commands there from within the Notebook. See examples below.
+
+.. image:: ../images/run_shell_commands.png
+      :scale: 35 %
+      :align: center

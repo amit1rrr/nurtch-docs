@@ -37,3 +37,7 @@
 .. |metric dimensions::this| raw:: html
 
    <a href="https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/cloudwatch_concepts.html#Dimension" target="_blank">this</a>
+
+.. |SQL magic| raw:: html
+
+   <a href="https://github.com/catherinedevlin/ipython-sql" target="_blank">SQL magic</a>

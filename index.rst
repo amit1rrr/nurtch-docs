@@ -1,7 +1,3 @@
-.. NurtchDocs documentation master file, created by
-   sphinx-quickstart on Sun May  6 15:14:02 2018.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
 .. include:: globals.rst
 
 Welcome to Nurtch documentation!
@@ -15,7 +11,7 @@ While Nurtch is great for storing runbooks, it's also suitable to share any inte
 The documentation is split into two sections:
 
    * **Nurtch Platform**
-       It concerns with the actual Jupyter UI that's used to write, edit and execute Notebooks. It provides ability to search documents, publish them to S3, store credentials as environment variables, and add team members to Nurtch.
+       It concerns with the actual Jupyter UI that's used to write, edit and execute Notebooks. We provide ability to search documents, publish them to S3, store credentials, and add team members to Nurtch. We also talk about some useful features that are built into Jupyter Notebooks e.g. Running shell commands, SQL queries etc.
 
    * **Rubix Library**
        Rubix is a Python library that simplifies common DevOps actions by leveraging infrastructure APIs. Simply put, we abstract the complexity of communicating with AWS/Kubernetes/<Your favourtute tool> APIs and presenting the result in Notebook.
@@ -24,13 +20,6 @@ The documentation is split into two sections:
 
        * ``plot_metrics`` method in Rubix fetches metrics data from cloudwatch and renders the graph in Notebook using Plotly
        * ``rollback_deployment`` communicates with ECS to provide task definitions that you can rollback to, performs rollback deployment to the version you choose, keeps you updated on the status of rollback deployment.
-
-
-
-
-
-
-
 
 .. toctree::
    :maxdepth: 2
