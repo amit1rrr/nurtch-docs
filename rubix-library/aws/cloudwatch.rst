@@ -25,7 +25,7 @@ Cloudwatch
          Metric statistics for your graph e.g. ``Minimum``, ``Maximum``, ``Sum``, ``Average``. All |cloudwatch statistics::possible values|. Deaults to ``Average``
 
       * *markers* (``[datetime.datetime]``)
-         Markers to indicate timestamp of significant events e.g. you can fetch deployment times and plot them as markers to see metrics's corelation with deployment. Any marker not between ``start_time`` and ``end_time`` is simply ignored. Defaults to [].
+         Markers to indicate timestamp of significant events e.g. you can fetch deployment times with :ref:`this method <get_latest_deployment_status_ecs>` and plot them as markers to see metrics's corelation with deployment. Any marker not between ``start_time`` and ``end_time`` is simply ignored. Defaults to [].
 
       * *dimensions* (``dict``)
          A name/value pair that uniquely identifies a metric. See |metric dimensions::this| and examples below. When not specified all metrics matching the ``namespace`` and ``metric_name`` are graphed.

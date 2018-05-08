@@ -34,6 +34,7 @@ Once editing is enabled you can modify the Notebook as you wish. After editing i
    :scale: 50 %
    :align: center
 
+.. _run-sql-queries:
 
 Run SQL queries in Notebook
 ------------------------------------

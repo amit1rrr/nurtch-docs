@@ -38,6 +38,7 @@ Elastic Container Service (ECS)
          :align: center
 
 
+.. _get_latest_deployment_status_ecs:
 
 .. function:: get_latest_deployment_status(service, **kwargs)
 

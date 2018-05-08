@@ -41,3 +41,4 @@
 .. |SQL magic| raw:: html
 
    <a href="https://github.com/catherinedevlin/ipython-sql" target="_blank">SQL magic</a>
+
