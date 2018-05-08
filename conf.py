@@ -51,7 +51,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'NurtchDocs'
+project = 'Nurtch'
 copyright = '2018, Amit Rathi'
 author = 'Amit Rathi'
 

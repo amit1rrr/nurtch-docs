@@ -18,6 +18,10 @@
 
    <a href="mailto:team@nurtch.com" target="_blank">write to us</a>
 
+.. |Write to us| raw:: html
+
+   <a href="mailto:team@nurtch.com" target="_blank">Write to us</a>
+
 .. |Possible namespace values| raw:: html
 
    <a href="https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/aws-namespaces.html" target="_blank">Possible values</a>
