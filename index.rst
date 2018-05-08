@@ -23,7 +23,7 @@ The documentation is split into two sections:
        Here are some examples to make it more concrete:
 
        * ``plot_metrics`` method in Rubix fetches metrics data from cloudwatch and renders the graph in Notebook using Plotly
-       * ``rollback_deployment`` communicates with ECS/ECR to provide task definitions that you can rollback to, performs rollback deployment to the version you choose, keeps you updated on the status of rollback deployment.
+       * ``rollback_deployment`` communicates with ECS to provide task definitions that you can rollback to, performs rollback deployment to the version you choose, keeps you updated on the status of rollback deployment.
 
 
 
