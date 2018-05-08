@@ -9,7 +9,7 @@ You can try Nurtch with a 30-Day free trial. All features included. No credit ca
 
 
 Creating New Notebook
-------------------
+------------------------------------
 Once you are logged into Nurtch, you can create Notebooks/plain text files/directories. Click `New` and choose the appropriate option.
 
 .. image:: ../images/click_on_new.png
