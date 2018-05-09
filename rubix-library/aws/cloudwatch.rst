@@ -59,7 +59,6 @@ Cloudwatch
             end_time=datetime.datetime(2018, 04, 26)
             statistics='Maximum')
 
-
    :Sample Usage and Output:
       .. image:: ../../images/plot_metric_example.png
          :scale: 30%
