@@ -34,6 +34,19 @@ Once editing is enabled you can modify the Notebook as you wish. After editing i
    :scale: 50 %
    :align: center
 
+
+Add Users to Nurtch
+---------------------
+It's easy to invite your teammates to Nurtch. Go to the `Admin` tab after you login and click on `Add Users To Nurtch`.
+Type in email addresses of users you want to add (separated by comma). Key in a temporary password for them to login with.
+
+Once added these users can login with their email address and the temporary password. They are forced to change the password when they login for the first time.
+Note that, we do not send email invites via Nurtch to avoid you any SMTP setup. Simply communicate the username (email) and temporary password to newly added users via your regular means of communication.
+
+.. image:: ../images/add_users.png
+   :scale: 30 %
+   :align: center
+
 .. _run-sql-queries:
 
 Run SQL queries in Notebook
