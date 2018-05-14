@@ -8,3 +8,4 @@ setup(name='nurtch-docs',
       author_email='team@nurtch.com',
       license='MIT',
       zip_safe=False)
+
