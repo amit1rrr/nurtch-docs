@@ -4,7 +4,7 @@ Welcome to Nurtch documentation!
 ======================================
 |Nurtch| is an internal documentation platform based on |Jupyter Notebooks|. It's used by teams to write executable runbooks for quick incident response. Notebook supports markdown text, images, executable code, and output all within the single document served in a browser.
 
-Nurtch is self hosted for complete control, security, and access to your infrastructure in VPC. All Notebooks are stored in S3 bucket you configure. |Sign up| to receive installation instructions.
+Nurtch is self hosted for complete control, security, and access to your infrastructure in VPC. All Notebooks are stored in S3 bucket you configure. :ref:`See this <nurtch_install>` for installation.
 
 While Nurtch is great for storing runbooks, it's also suitable to share any internal documentation within team. You can write onboarding guides, retrieve metrics, automate walk-up requests and such.
 This documentation is split into two sections:

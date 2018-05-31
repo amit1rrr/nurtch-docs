@@ -6,6 +6,10 @@
 
    <a href="http://nurtch.com" target="_blank">Sign up</a>
 
+.. |sign up| raw:: html
+
+   <a href="http://nurtch.com" target="_blank">sign up</a>
+
 .. |Jupyter Notebooks| raw:: html
 
    <a href="http://jupyter.org/" target="_blank">Jupyter Notebooks</a>
@@ -42,3 +46,10 @@
 
    <a href="https://github.com/catherinedevlin/ipython-sql" target="_blank">SQL magic</a>
 
+.. |installation instructions| raw:: html
+
+   <a href="https://www.nurtch.com/install/free-trial" target="_blank">installation instructions</a>
+
+.. |pricing| raw:: html
+
+   <a href="https://www.nurtch.com/#pricing" target="_blank">pricing</a>

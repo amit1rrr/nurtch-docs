@@ -3,9 +3,11 @@
 Nurtch Platform
 ===============
 
+.. _nurtch_install:
+
 Install
 ------------------
-You can try Nurtch with a 30-Day free trial. |Sign up| for Nurtch to get your trial key and installation instructions.
+Here are |installation instructions| for setting up Nurtch. Up to 10 Notebooks and unlimited users are free forever. Beyond that, see |pricing|. To get in touch, |sign up| or |write to us|.
 
 
 Creating New Notebook
