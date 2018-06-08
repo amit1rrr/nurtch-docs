@@ -178,3 +178,6 @@ source_parsers = {
 
 source_suffix = ['.rst', '.md']
 
+
+def setup(app):
+    app.add_javascript("js/inspectlet.js")
