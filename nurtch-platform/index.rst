@@ -10,7 +10,7 @@ Install
 Here are |installation instructions| for setting up Nurtch. Up to 10 Notebooks and unlimited users are free forever. Beyond that, see |pricing|. To get in touch, |sign up| or |write to us|.
 
 
-Creating New Notebook
+Creating New Runbook
 ------------------------------------
 Once you are set up and logged into Nurtch, you can create Notebooks/plain text files/directories. Click `New` and choose the appropriate option.
 
@@ -22,7 +22,7 @@ You can choose programming language while creating Notebooks. Thanks to Jupyter,
 
 
 
-Editing Notebook
+Editing Runbook
 ------------------
 Any Notebook is opened in the viewing mode by default. You can view content, execute code cells, and see output. Editing is disabled to avoid committing unintentional changes. Click on the `EDIT` button if you want to edit the Notebook.
 
