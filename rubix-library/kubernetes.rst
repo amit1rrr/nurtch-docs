@@ -6,7 +6,7 @@ You can either use the familiar `kubectl` commands or use higher level APIs prov
 
 Setup
 ------------------
-Once you login, go to the admin tab and uplooad Kubernetes config file. The file is typically located at ~/.kube/config. *Tip: You might need to press (CMD + Shift + .) on mac to show hidden files in the finder.*
+Once you login, go to the admin tab and upload Kubernetes config file. The file is typically located at ~/.kube/config. *Tip: You might need to press (CMD + Shift + .) on mac to show hidden files in the finder.*
 
 .. image:: ../images/ss_k8s_config.png
    :scale: 30 %
@@ -18,27 +18,27 @@ Once uploaded, wait for a minute for the config to propagate to all the nodes in
    :scale: 50 %
    :align: center
 
-That's it! Now you can use `kubectl` commands and `rubix.kubernetes.*` methods to operate your cluster.
+That's it! Now you can use `kubectl` commands and `rubix.kubernetes.*` methods to operate your cluster (examples below).
 
 Command Line Usage
 ---------------------
 You can upload and use your existing scripts in the notebook or use one-off commands as shown in the examples below.
 
-List all running services.
+* List all running services.
 
 .. image:: ../images/k8s_list_services.png
    :scale: 40 %
    :align: center
 
 
-See when deployments occurred in your cluster by checking replica sets.
+* See when deployments occurred in your cluster by checking replica sets.
 
 .. image:: ../images/k8s_get_rs.png
    :scale: 50 %
    :align: center
 
 
-Check the status of your last deployment.
+* Check the status of your last deployment.
 
 .. image:: ../images/k8s_rollout_status.png
    :scale: 50 %
