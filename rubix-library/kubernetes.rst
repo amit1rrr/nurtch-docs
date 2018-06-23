@@ -37,8 +37,13 @@ You can upload and use your existing scripts in the notebook or use one-off comm
    :scale: 50 %
    :align: center
 
+* See the rollout history with `kubectl rollout history <resource_name>` and rollback to the version you wish.
 
-* Check the status of your last deployment.
+.. image:: ../images/k8s_rollback.png
+   :scale: 50 %
+   :align: center
+
+* Check the status of your deployment rollout.
 
 .. image:: ../images/k8s_rollout_status.png
    :scale: 50 %
